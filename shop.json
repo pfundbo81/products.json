@@ -3,7 +3,8 @@
     {
       "name": "Sneaker 1",
       "price": "79,99 €",
-      "image": "products.json/DSC_0272"
+      "image": "https://github.com/pfundbo81/products.json/blob/main/DSC_0272.JPG"
+
     }
   ],
   "comic": [
