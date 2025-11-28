@@ -21,6 +21,12 @@
       "price": "4.95",
       "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0084.JPG",
       "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0084.JPG"
+    },
+    {
+      "name": "red / white",
+      "price": "4.95",
+      "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0085.JPG",
+      "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0085.JPG"
     }
   ],
   "comic": [
