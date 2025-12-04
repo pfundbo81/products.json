@@ -1,12 +1,6 @@
 {
   "sneaker": [],
-  "comic": [
-    {
-      "name": "Comic 1",
-      "price": "12.99 €",
-      "image": "icons/comic1.png"
-    }
-  ],
+  "comic": [],
   "other": [
     {
       "name": "Other 1",
