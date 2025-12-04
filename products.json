@@ -1,11 +1,5 @@
 {
   "sneaker": [],
   "comic": [],
-  "other": [
-    {
-      "name": "Other 1",
-      "price": "5.99 €",
-      "image": "icons/other1.png"
-    }
-  ]
+  "other": []
 }
