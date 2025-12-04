@@ -35,6 +35,12 @@
       "price": "4.95",
       "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0149.JPG",
       "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0149.JPG"
+    },
+    {
+      "name": "red / blue 2",
+      "price": "4.95",
+      "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0150.JPG",
+      "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0150.JPG"
     }
   ],
   "comic": [],
