@@ -59,6 +59,12 @@
       "price": "4.95",
       "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0153.JPG",
       "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0153.JPG"
+    },
+    {
+      "name": "silver bullett",
+      "price": "4.95",
+      "image": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/DSC_0154.JPG",
+      "thumb": "https://raw.githubusercontent.com/pfundbo81/products.json/main/images/thumbs/DSC_0154.JPG"
     }
   ],
   "comic": [],
